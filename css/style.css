@@ -2,10 +2,11 @@
 * {
   margin: 0;
   padding: 0;
-  /* if full website has 1 font family  */
-  font-family: ;
+  outline: 0;
+  box-sizing: border-box;
+  /* font-family: ; */
 }
-a {
+a, a:hover{
   text-decoration: none;
   display: inline-block;
 }
